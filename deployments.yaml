@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: node-svc
-        image: gcr.io/<YOUR GOOGLE PROJECT>/node-svc:latest
+        image: gcr.io/trusty-server-288613/node-svc:latest
         
 ---
